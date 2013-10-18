@@ -3,8 +3,6 @@
 Extension for Kohana's View class that renders as a PDF instead of HTML. Uses [DOMPDF](https://github.com/dompdf/dompdf) to render normal HTML views as PDF Files.
 **Please report all bugs related to PDF rendering there**
 
-<br />
-
 ## Installation
 
 Install DOMPDF using the submodule:
@@ -21,8 +19,6 @@ This will install DOMPDF to `vendor/dompdf/dompdf` from the [DOMPDF Git mirror](
     
     # An insecure alternative:
     chmod 0777 vendor/dompdf/dompdf/lib/fonts
-
-<br />
 
 ## Usage
 
